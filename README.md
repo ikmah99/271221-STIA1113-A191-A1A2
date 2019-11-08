@@ -1,1 +1,3 @@
-# STIA1113_Assignment
+# Student Info
+Matric: 271221
+Name: Wong Fang Man
