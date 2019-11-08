@@ -1,5 +1,5 @@
 # Student Info
-Matric: 271221
-Name: Wong Fang Man
+*Matric: 271221
+*Name: Wong Fang Man
 
 # Introduction
