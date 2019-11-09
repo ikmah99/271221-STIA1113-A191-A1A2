@@ -4,7 +4,7 @@ Matric: 271221
 Name: Wong Fang Man
 
 # Introduction
-According to this assignment, I have learnt to create a car loan calculator including write a pseudocode, draw a flow chart and write a java code. I have learnt the formula to calculate and apply in java program.
+In this assignment, I learned to create a car loan calculator by writing a pseudocode, drawing a flow chart and writing a java code. I also learned the formula to calculate and apply in java program. Beside that, the car loan calculator used to calculate the monthly repayment of car, loan of car, principal of car, interest of car and balance payment of car.
 
 # Pseudocode
 START
