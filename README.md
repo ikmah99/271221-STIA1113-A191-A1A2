@@ -33,3 +33,13 @@ Loop years, principal, interest, balance depend on the loan period
 END
 
 # Flow Chart
+
+
+
+
+
+
+
+
+
+# Screenshot of output
