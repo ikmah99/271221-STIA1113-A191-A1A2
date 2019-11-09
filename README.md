@@ -56,13 +56,7 @@ Loop years, principal, interest, balance depend on the loan period
 END
 
 # Flow Chart
-
-
-
-
-
-
-
-
+![CarLoanCalculator](https://user-images.githubusercontent.com/55380522/68533419-b154ed00-0363-11ea-9b35-76273264b8ed.png)
 
 # Screenshot of Output
+<img width="960" alt="Screenshot of Output" src="https://user-images.githubusercontent.com/55380522/68533427-c9c50780-0363-11ea-858c-0b535940af66.png">
